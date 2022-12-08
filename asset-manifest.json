@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shader-1/static/css/main.09054d0a.css",
+    "main.js": "/shader-1/static/js/main.c447a2ed.js",
+    "index.html": "/shader-1/index.html",
+    "main.09054d0a.css.map": "/shader-1/static/css/main.09054d0a.css.map",
+    "main.c447a2ed.js.map": "/shader-1/static/js/main.c447a2ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09054d0a.css",
+    "static/js/main.c447a2ed.js"
+  ]
+}
